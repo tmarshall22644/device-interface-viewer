@@ -1,0 +1,7 @@
+{
+  "name": "device-interface-viewer",
+  "version": "1.9.21",
+  "title": "Device Object Viewer",
+  "description": "Widget to display data from all object types for a device",
+  "tags": ["wdk"]
+}
